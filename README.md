@@ -1,21 +1,23 @@
 # 💰 Python Expense Tracker
 
-A simple command-line expense tracker built with Python to manage income and expenses.
+A simple and practical command-line expense tracker built with Python to help manage income and expenses.
 
 ---
 
 ## 🚀 Features
 - Add income and expenses
-- View all transactions
+- View transaction history
 - Calculate total balance
-- Data stored using JSON
+- Persistent storage using JSON
+- Clean and simple CLI interface
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 - Python 3
-- JSON
+- JSON (data storage)
 - File handling
+- Datetime module
 
 ---
 
